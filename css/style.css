@@ -239,3 +239,16 @@ select {
   }
 
 }
+
+.langage-experience-list{
+  display: flex;
+}
+
+.library-experience-list{
+  display: flex;
+  justify-content: center;
+}
+
+.library-experience-list li{
+  margin: 50px;
+}
